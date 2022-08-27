@@ -1,0 +1,9 @@
+export { authController } from './auth.controller'
+export { productController } from './product.controller'
+export { accountController } from './account.controller';
+export { voucherController } from './promotions/voucher.controller';
+export { freeShippingController } from './promotions/freeShipping.controller';
+export { categoryController } from './category.controller';
+export { brandController } from './brand.controller';
+export { dashboardController } from './dashboard.controller';
+export { campaignController } from './promotions/campaign.controller';
